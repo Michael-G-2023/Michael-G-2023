@@ -1,9 +1,7 @@
 Hello to all who may read.
 
-I am Michael Giurcanu, and I am currently a senior at the University of Chicago Laboratory Schools. 
+I am Michael Giurcanu, and I am currently a freshman at Purdue University in West Lafayette, Indiana for ECE or AERO ENG. 
 
 Take a look and see some of the things that I have done over the years. 
 
-Projects are labled alongside the year that they were completed. 
-
-I had an internship opportunity, and I also put the code for that in here as well. In the project file is a poster of my project that I presented in a symposium.
+Projects are labeled alongside the year that they were completed. 
